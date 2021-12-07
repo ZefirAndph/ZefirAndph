@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZefirAndph
+- 👋 Hi, I’m **@ZefirAndph**, metalist and something vampire like developer.
 - 👀 I’m interested in developing special software, web application and game development.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on special software for modern industry.
