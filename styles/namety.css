@@ -1,82 +1,85 @@
 body 
 {
-    background-color: #000;
-	color: #ccc;
+    background-color: #282A36;
+	color: #F8F8F2;
 }
-
+#naviBar .content 
+{
+    background-color: #6272A4;
+}
 .article .notice 
 {
-    background-color: #333;
+    background-color: #282A36;
 }
 
 .article .bordered tr 
 {
-    background-color: #333 !important;
+    background-color: #282A36 !important;
     color: #bbb;
 }
 
 .article .bordered tr.even 
 {
-    background-color: #222 !important;
+    background-color: #44475A !important;
     color: #bbb;
 }
 
 .article .bordered td 
 {
-    border: 1px solid #222;
+    border: 1px solid #282A36;
 }
 
 .article .bordered th 
 {
-    background-color: #555;
-    border: 1px solid #444
+    background-color: #44475A;
+    border: 1px solid #44475A
 }
 
 p.chb 
 {
-    background-color: #555;
-    border: 1px solid #444;
+    background-color: #44475A;
+    border: 1px solid #44475A;
 }
 
 a 
 {
-	color: #fff;
+	color: #F8F8F2;
 }
 
 a:hover 
 {
-	color: #fff
+	color: #F8F8F2
 }
 
 .article .namet 
 {
-    color: #ccc;
+    color: #F8F8F2;
 }
 
 #content 
 {
-    background: #000;
+    background: #282A36;
 }
 
 .chbc 
 {
-    background-color: #555;
-    border: 1px solid #444;
+    background-color: #282A36;
+    border: 1px solid #282A36;
 }
 
 textarea 
 {
-    background-color: #555;
-    border: 1px solid #444;
-    color: #ccc;
+    background-color: #282A36;
+    border: 1px solid #282A36;
+    color: #F8F8F2;
 }
 
 .pages a 
 {
-    color: #ccc;
+    color: #F8F8F2;
 }
 
 .messageEmpty
 {
-    color: black;
+    color: #282A36;
 }
