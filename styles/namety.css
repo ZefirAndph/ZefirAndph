@@ -1,51 +1,78 @@
-body {
+body 
+{
     background-color: #000;
-color: #ccc;
+	color: #ccc;
 }
-.article .notice {
+
+.article .notice 
+{
     background-color: #333;
 }
-.article .bordered tr {
+
+.article .bordered tr 
+{
     background-color: #333 !important;
     color: #bbb;
 }
-.article .bordered tr.even {
+
+.article .bordered tr.even 
+{
     background-color: #222 !important;
     color: #bbb;
 }
-.article .bordered td {
+
+.article .bordered td 
+{
     border: 1px solid #222;
 }
-.article .bordered th {
+
+.article .bordered th 
+{
     background-color: #555;
     border: 1px solid #444
 }
-p.chb {
+
+p.chb 
+{
     background-color: #555;
     border: 1px solid #444;
 }
-a {
-color: #fff;
+
+a 
+{
+	color: #fff;
 }
-a:hover {
-color: #fff
+
+a:hover 
+{
+	color: #fff
 }
-.article .namet {
+
+.article .namet 
+{
     color: #ccc;
 }
-#content {
+
+#content 
+{
     background: #000;
 }
-.chbc {
+
+.chbc 
+{
     background-color: #555;
     border: 1px solid #444;
 }
-textarea {
+
+textarea 
+{
     background-color: #555;
     border: 1px solid #444;
     color: #ccc;
 }
-.pages a {
+
+.pages a 
+{
     color: #ccc;
 }
 
