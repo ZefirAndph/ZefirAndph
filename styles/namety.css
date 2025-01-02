@@ -26,19 +26,19 @@ body
 
 .article .bordered td 
 {
-    border: 1px solid #282A36;
+    border: 1px solid #6272A4;
 }
 
 .article .bordered th 
 {
     background-color: #44475A;
-    border: 1px solid #44475A
+    border: 1px solid #6272A4
 }
 
 p.chb 
 {
     background-color: #44475A;
-    border: 1px solid #44475A;
+    border: 1px solid #6272A4;
 }
 
 a 
@@ -64,13 +64,13 @@ a:hover
 .chbc 
 {
     background-color: #282A36;
-    border: 1px solid #282A36;
+    border: 1px solid #6272A4;
 }
 
 textarea 
 {
     background-color: #282A36;
-    border: 1px solid #282A36;
+    border: 1px solid #6272A4;
     color: #F8F8F2;
 }
 
