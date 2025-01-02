@@ -1,0 +1,55 @@
+body {
+    background-color: #000;
+color: #ccc;
+}
+.article .notice {
+    background-color: #333;
+}
+.article .bordered tr {
+    background-color: #333 !important;
+    color: #bbb;
+}
+.article .bordered tr.even {
+    background-color: #222 !important;
+    color: #bbb;
+}
+.article .bordered td {
+    border: 1px solid #222;
+}
+.article .bordered th {
+    background-color: #555;
+    border: 1px solid #444
+}
+p.chb {
+    background-color: #555;
+    border: 1px solid #444;
+}
+a {
+color: #fff;
+}
+a:hover {
+color: #fff
+}
+.article .namet {
+    color: #ccc;
+}
+#content {
+    background: #000;
+}
+.chbc {
+    background-color: #555;
+    border: 1px solid #444;
+}
+textarea {
+    background-color: #555;
+    border: 1px solid #444;
+    color: #ccc;
+}
+.pages a {
+    color: #ccc;
+}
+
+.messageEmpty
+{
+    color: black;
+}
