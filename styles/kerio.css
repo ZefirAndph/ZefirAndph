@@ -13,13 +13,21 @@ colors:
 	Yellow:         #F1FA8C
 */
 
-.x-grid-view,
-.x-grid-row,
-.x-grid-cell-inner,
-span.folderName,
-.x-container,
-body
+body,
+.x-panel .x-grid-body
 {
 	background-color: #282A36;
 	color: #F8F8F2;
+} 
+/* Položky ve složkách */
+.folderTree .x-grid-row .folderName
+{
+	color: #F8F8F2;
+	background-color: #282A36;
+}
+/* Položky ve složkách:hover */
+tr.x-grid-row-over
+{
+	background-color: #F8F8F2;
+	color: #44475A;
 }
