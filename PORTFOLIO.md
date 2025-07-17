@@ -27,6 +27,7 @@ Jsem nadšenec do fantazie, strojař, konstruktér a vývojář s vášní pro �
     - **Servisní modul** - dodatečný software pro správu, přípravu a plánování servisních výjezdů.
     - **Zakázkový modul** - dodatečný sofrware pro právu zakázek a přípravu jejich fakturace.
 - **ColorPicker** – Lehký software pro identifikaci barvy z bodu obrazovky do HEX/RGB kódu.
+- **worldEdit** - nástroj pro editaci světa hry World of Warcraft.
 
 ## Kontakt
 * Email: info@andph.eu
