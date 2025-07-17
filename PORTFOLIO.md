@@ -10,7 +10,7 @@ Jsem nadšenec do fantazie, strojař, konstruktér a vývojář s vášní pro �
 - C++ (ImGui, wxWidgets, boost)
 - Docker, Git, Linux
 - CAD (AutoCAD, Inventor)
-- CAM (TruTops, Metalix, CypCut, PrusaSlicer, ideaMaker, Cura)
+- CAM (TruTops, Metalix, CypCut, NC Express, PrusaSlicer, ideaMaker, Cura)
 - Embeded zařízení (Raspberry, Arduino)
 
 ## Projekty
@@ -22,8 +22,10 @@ Jsem nadšenec do fantazie, strojař, konstruktér a vývojář s vášní pro �
   - **EDI** - vstup, výstup a kontrola dat odpovídající formátu EDI.
   - **Tabulkové importy** - importní aparáty pro soubory XLS(X), CSV a XML.
   - **Převody dat** - velké datové přesuny a konverze mezi jinými software.
-  - **Servisní modul** - dodatečný software pro správu, přípravu a plánování servisních výjezdů.
   - **SÚKL DIS-13** - zprostředkování komunikace mezi SÚKL a DUELem, v rozsahu povinných hlášení DIS13.
+  - **Moduly**
+    - **Servisní modul** - dodatečný software pro správu, přípravu a plánování servisních výjezdů.
+    - **Zakázkový modul** - dodatečný sofrware pro právu zakázek a přípravu jejich fakturace.
 - **ColorPicker** – Lehký software pro identifikaci barvy z bodu obrazovky do HEX/RGB kódu.
 
 ## Kontakt
