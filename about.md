@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 Designer of simple Machines and Programmer of Unique Software Solutions, Worldbuilder, Creator of the Andph Universe. Kinda vampire. Kinda renaissance/goth. 
 
 ## About Me
