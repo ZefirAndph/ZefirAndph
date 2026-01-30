@@ -2,3 +2,10 @@ theme: jekyll-theme-hacker
 title: Zefir Andph
 author: Zefir Andph
 #description: 
+
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.md
